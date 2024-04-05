@@ -40,19 +40,14 @@ and all these preprocesssing procedure should be matched to whatever your model 
 
 ## Needs of this project
 
-- frontend developers
-- data exploration/descriptive statistics
 - data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+- app developer
+- Deep learning model
 
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
+1. pull the docker image from [Here](https://hub.docker.com/repository/docker/omar88/docker_app/tags) 
+2. Data source:
     
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 4. etc...
