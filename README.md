@@ -1,7 +1,7 @@
 # Lung ct detection 
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+![](images/lungs-intro-photo.jpg)
 
-#### -- Project Status: [Completed]
+#### Project Status: [Completed]
 
 ## Project Intro/Objective
 deeplearning model resposible for detecting ct scan for lunges 
