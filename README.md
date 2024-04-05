@@ -1,27 +1,23 @@
 # lung ct detection 
 This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 the purpose of this project is to create a deeplearning model resposible for detecting whether the provided ct scan for lunges is one of the following classes **{0:'failure',1:'normal',2:'Covid',3:'lung atama'}**
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
-
+* data augmentaion
+* pre trained model VGG16
+* transfer learning
+* Deep leanring, CNN
+* Early stopping
+  
 ### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* pandas, numpy, matplotlib
+* tensotflow
+* glob
+* scikit learn 
 
 ## Project Description
 ![postman](images/postman.jpg)
