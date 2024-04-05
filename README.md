@@ -4,7 +4,7 @@ This project is a part of the [Data Science Working Group](http://datascience.co
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-the purpose of this project is to create a deeplearning model resposible for detecting whether the provided ct scan for lunges is one of the following classes **{0:'failure',1:'normal',2:'Covid',3:'lung atama'}**
+deeplearning model resposible for detecting ct scan for lunges 
 
 ### Methods Used
 * data augmentaion
@@ -20,6 +20,9 @@ the purpose of this project is to create a deeplearning model resposible for det
 * scikit learn 
 
 ## Project Description
+the purpose of this project is to create a deeplearning model resposible for detecting ct scan for lunges is one of the following classes 
+**{0:'failure',1:'normal',2:'Covid',3:'lung atama'}**
+then the model should be deployed on mobile application and all data exchange will be done by GET and POST request, provided down screenshot of a post request to my local host running the model and getting back predictions
 ![postman](images/postman.jpg)
 
 ## Needs of this project
