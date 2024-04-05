@@ -27,8 +27,12 @@ then the model should be deployed on mobile application and all data exchange wi
 ![postman](images/postman.jpg)
 
 ## image preprocessing
-it's essential to pre process the image uploaded before passing it to the model and getting back the prediction<br>
+
+
+it's essential to preprocess the image uploaded before passing it to the model <br>
+and getting back the prediction<br>
 and all these preprocesssing procedure should be matched to whatever your model expecting to get to start getting predictions
+
 ![pre rpocessing](images/preprocessing.jpg)
 
 
