@@ -1,4 +1,4 @@
-# lung ct detection 
+# Lung ct detection 
 This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
 #### -- Project Status: [Completed]
@@ -29,7 +29,7 @@ then the model should be deployed on mobile application and all data exchange wi
 ## image preprocessing
 it's essential to pre process the image uploaded before passing it to the model and getting back the prediction<br>
 and all these preprocesssing procedure should be matched to whatever your model expecting to get to start getting predictions
-
+![pre rpocessing](images/preprocessing.jpg)
 
 
 
