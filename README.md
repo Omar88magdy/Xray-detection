@@ -53,5 +53,5 @@ and all these preprocesssing procedure should be matched to whatever your model 
 3. Run Docker Container **docker run <options> <image_name>:<tag>**
 
 
-## Contact
-[linkedin]:(https://www.linkedin.com/in/omar-magdy-197a88215/)
+## [Contact](https://www.linkedin.com/in/omar-magdy-197a88215/)
+
