@@ -4,13 +4,7 @@ This project is a part of the [Data Science Working Group](http://datascience.co
 #### -- Project Status: [Active, On-Hold, Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+the purpose of this project is to create a deeplearning model resposible for detecting whether the provided ct scan for lunges is one of the following classes **{0:'failure',1:'normal',2:'Covid',3:'lung atama'}**
 
 ### Methods Used
 * Inferential Statistics
