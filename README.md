@@ -21,7 +21,7 @@ deeplearning model resposible for detecting ct scan for lunges
 
 ## Project Description
 the purpose of this project is to create a deeplearning model resposible for detecting ct scan for lunges is one of the following classes 
-**{0:'failure',1:'normal',2:'Covid',3:'lung atama'}**
+**{0:'failure',1:'normal',2:'Covid',3:'lung atama'}**<br>
 then the model should be deployed on mobile application and all data exchange will be done by GET and POST request, provided down screenshot of a post request to my local host running the model and getting back predictions
 ![postman](images/postman.jpg)
 
